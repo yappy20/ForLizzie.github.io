@@ -1,3 +1,3 @@
 # Source Code for the website
 
-Github Pages was used
+Github Pages was used.
